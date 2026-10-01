@@ -1,0 +1,6 @@
+{
+  "name": "Shadows of Aether",
+  "description": "Third-Person 3D Action, Parkour, and Stealth Adventure built for Telegram Mini App with Web3 integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
